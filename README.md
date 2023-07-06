@@ -1,3 +1,2 @@
-# nerd_gamehouse
-
-OFFICIAL NERD DISCORD BOT
+# sunda-empire
+**sunda-empire official discord bot by xxehub**
